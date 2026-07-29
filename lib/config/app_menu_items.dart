@@ -5,19 +5,19 @@ import 'package:flutter/material.dart';
 
 final List<MenuItemModel> AppMenuItems = [
   const MenuItemModel(
-    label: 'button',
+    label: 'Button',
     sublabel: 'Button widget',
     icon: Icons.radio_button_checked,
     route: '/button',
   ),
   const MenuItemModel(
-    label: 'toggle',
+    label: 'Toggle',
     sublabel: 'Toggle widget',
     icon: Icons.toggle_on,
     route: '/toggle',
   ),
   const MenuItemModel(
-    label: 'drawer',
+    label: 'Drawer',
     sublabel: 'Drawer widget',
     icon: Icons.menu,
     route: '/drawer',
